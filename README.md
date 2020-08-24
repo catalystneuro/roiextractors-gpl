@@ -1,5 +1,5 @@
 # RoiExtractors-GPL
-GPL extension for the [roiextractors](https://github.com/catalystneuro/roiextractors) package. Imports RoiExtractors as well as GPL libraries that cannot be imported in the main repo.
+GPL extension for the [RoiExtractors](https://github.com/catalystneuro/roiextractors) package. Imports roiextractors as well as GPL libraries that cannot be imported in the main repo.
 
 ## Installation
 ```
