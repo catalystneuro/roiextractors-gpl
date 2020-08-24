@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 d = {}
-exec(open("roiextractorsgpl/version.py").read(), None, d)
+exec(open("roiextractors_gpl/version.py").read(), None, d)
 version = d['version']
 pkg_name = "roiextractors_gpl"
 
