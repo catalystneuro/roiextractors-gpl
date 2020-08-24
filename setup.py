@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 d = {}
 exec(open("roiextractorsgpl/version.py").read(), None, d)
 version = d['version']
-pkg_name = "roiextractorsgpl"
+pkg_name = "roiextractors_gpl"
 
 with open('README.md') as rd:
     long_description = rd.read()
